@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/colour-science/flask-compress/commit/33ff4e5ebe91ddc31d83d0be87ade25c1ad6f30b",
       "git:hexsha": "33ff4e5ebe91ddc31d83d0be87ade25c1ad6f30b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:39:19.812325+00:00"
     },
     {
       "@id": "https://repolex.ai/r/colour-science/flask-compress/commit/dc644b4d2994350e21088be2d6aba6f99afa5301",
