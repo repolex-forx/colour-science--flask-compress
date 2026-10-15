@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "colour-science",
+  "repo": "flask-compress",
+  "versions": [
+    {
+      "commit": "33ff4e5ebe91ddc31d83d0be87ade25c1ad6f30b",
+      "parsed_at": "2026-10-15T09:37:24.844606+00:00",
+      "filetree": "filetree/33ff4e5ebe91ddc31d83d0be87ade25c1ad6f30b.nq.gz",
+      "blobs": [
+        "blob/3248ee057054e7f84839e9170b855cd021f49ccf.nq.gz",
+        "blob/41ac0dc16f15991dad47800a0b104ef1d8716ca7.nq.gz",
+        "blob/12a03d70dec746f2921642f3f5c820d27526c127.nq.gz",
+        "blob/2b424e236c6232da1721ed96b2071478e4fa07be.nq.gz",
+        "blob/c107b93706c56ff39e970165a1bde83db751435d.nq.gz",
+        "blob/a924a670ff5ca4a96645d83e3e7179ae0bf56fd1.nq.gz",
+        "blob/2dbd8537045f8bd8396e9e0241588e635acdea4a.nq.gz",
+        "blob/dbd44550f3be0fad401040605e1ea9ef8230aaf5.nq.gz",
+        "blob/20f00676ddbb8fc9a227835113d1cc50399e44dc.nq.gz",
+        "blob/9c34de84d75ebe2c1e360a6e104186ef00542ef4.nq.gz",
+        "blob/2390d8c809eea1d6587357cdad25ed4af134db32.nq.gz",
+        "blob/b5dcd564cd950a7a820b5fbfd799d771e7a65ae3.nq.gz",
+        "blob/9a6c841fc5aa69a46ff964ac67b41412f95d7909.nq.gz",
+        "blob/dd08a8bed3230bb42da6f47436f90dba06ad7a5b.nq.gz",
+        "blob/5e64191c10921ebc6f2850b32b1f8ca9f35b361f.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/67eea73f6c03eefa3b89d74f736a0850ca5b2edc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
