@@ -1,0 +1,11 @@
+{
+  "org": "colour-science",
+  "repo": "flask-compress",
+  "versions": [
+    {
+      "commit": "33ff4e5ebe91ddc31d83d0be87ade25c1ad6f30b",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:39:19.896713+00:00"
+    }
+  ]
+}
